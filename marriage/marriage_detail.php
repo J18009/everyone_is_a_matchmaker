@@ -102,7 +102,7 @@
                <td><?php echo nl2br($gr['child_wish']); ?></td>
            </tr>
            <tr>
-               <td>チャームポイント</td>
+               <td>自慢できるところ</td>
                <td><?php echo nl2br($gr['charm_point']); ?></td>
            </tr>
            <tr>
