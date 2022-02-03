@@ -323,7 +323,7 @@
           	<td><?php echo htmlspecialchars(@$_SESSION['join']['child_wish'],ENT_QUOTES); ?></td>
           	</tr>
 			<tr>
-			<th>チャームポイント:</th>
+			<th>自慢できるところ:</th>
           	<td><?php echo htmlspecialchars(@$_SESSION['join']['charm_point'],ENT_QUOTES); ?></td>
           	</tr>
 			<tr>
